@@ -293,7 +293,7 @@ a:focus {
           transform: translate(-45px, 0);
 }
 
-.service_section {
+.service.html{
   text-align: center;
 }
 
@@ -382,7 +382,7 @@ a:focus {
   background-color: #5625a1;
 }
 
-.about_section {
+.about.html {
   background-color: #f3f0f6;
 }
 
@@ -443,7 +443,7 @@ a:focus {
   background-color: #5625a1;
 }
 
-.blog_section .heading_container {
+.blog.html .heading_container {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -476,7 +476,7 @@ a:focus {
   font-weight: bold;
 }
 
-.contact_section {
+.contact.html {
   position: relative;
 }
 
