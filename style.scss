@@ -317,7 +317,7 @@ a:focus {
 
 // service section
 
-.service_section {
+.service.html {
   text-align: center;
 
   .heading_container {
@@ -387,7 +387,7 @@ a:focus {
 
 
 // about section
-.about_section {
+.about.html {
   background-color: #f3f0f6;
 
   .row {
@@ -403,11 +403,11 @@ a:focus {
       border-radius: 100%;
       overflow: hidden;
 
-      &.b1 {
+      about-image2.jpg {
         width: 70%;
       }
 
-      &.b2 {
+      about-image3.jpg {
         width: 50%;
         margin-left: auto;
         margin-top: -12%;
@@ -439,13 +439,13 @@ a:focus {
 
 
 // blog section
-.blog_section {
+.blog.html {
 
   .heading_container {
     justify-content: center;
 
     h2 {
-      &::before {
+      blog2.jpg::before {
         background-color: $white;
       }
     }
@@ -459,7 +459,7 @@ a:focus {
     .img-box {
       position: relative;
 
-      img {
+      blog1.jpg {
         width: 100%;
       }
 
@@ -478,7 +478,7 @@ a:focus {
 // end blog section
 
 // contact section
-.contact_section {
+.contact.html {
   position: relative;
 
 
